@@ -27,17 +27,17 @@ I am currently working on a software company as a developer and team lead.
 
 I love to read books, listen & create music.
 
-- :fireworks: i started my carrier with wordpress then learnt Django framework as i was deeply in love with python, then i made my skill set dynamic as my present company requires and uses dynamic technology like laravel and react.
+- :fireworks: i started my career with wordpress then learnt Django framework as i was deeply in love with python, then i made my skill set dynamic as my present company requires and uses dynamic technology like laravel and react.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about PHP, WordPress, Laravel and Django.
 - 📫 I am just one mail away - [mesbansu@gmail.com]
 - :partying_face: Fun fact: I am more of like a calm person , I love to play guitar and explore new musics, I love to travel .
-- :wrench: Tools - VSCode, pycharm, Tensorflow, Local by Flywheel, and Linux (Kali).
+- :wrench: Tools - VSCode, pycharm, Tensorflow, Laragon, Local by Flywheel, and Linux (Kali).
 
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/mesba-islam) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mesbahul-islam/) 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mesba0/)
