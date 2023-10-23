@@ -27,7 +27,7 @@ I am currently working on a software company as a developer and team lead.
 
 I love to read books, listen & create music.
 
-- :fireworks: i started my carrier with wordpress then learnt Django framework as i was deeply in love with python, then i made my skill set dynamic as my present company requires and uses dynamic technology like laravel and react.
+- :fireworks: i started my career with wordpress then learnt Django framework as i was deeply in love with python, then i made my skill set dynamic as my present company requires and uses dynamic technology like laravel and react.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about PHP, WordPress, Laravel and Django.
