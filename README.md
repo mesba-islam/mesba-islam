@@ -33,7 +33,7 @@ I love to read books, listen & create music.
 - 💬 Ask me about PHP, WordPress, Laravel and Django.
 - 📫 I am just one mail away - [mesbansu@gmail.com]
 - :partying_face: Fun fact: I am more of like a calm person , I love to play guitar and explore new musics, I love to travel .
-- :wrench: Tools - VSCode, pycharm, Tensorflow, Local by Flywheel, and Linux (Kali).
+- :wrench: Tools - VSCode, pycharm, Tensorflow, Laragon, Local by Flywheel, and Linux (Kali).
 
 
 ### Where to find me
