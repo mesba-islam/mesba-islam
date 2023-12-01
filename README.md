@@ -17,7 +17,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 
-I am a Software Engineer with a huge love for Laravel, Django, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Software Engineer working with backend technology on php, Laravel & wordpress CMS.Fun fact i also explored Django and worked on some projects. Currently, **I'm open to work and employment opportunities**.
 
 I am currently working on a software company as a developer and team lead.
 
